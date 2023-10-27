@@ -1,2 +1,2 @@
 # catPhotosApp
-Learn HTML by bulding catPhotoApp
+Learn HTML by bulding a cat Photo App
